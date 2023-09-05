@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working as  Sr.IIoT Developer @ausweg info controls<br>❤️ I love writing code with Python , MySQL , HTML , CSS , JS<br>🤝 I'm looking for help with advanced technologies (AI,ML)<br>🌱 I'm currently learning AI,ML<br>💬 Ask me about web technologies , python , mysql , MQTT , Gateways here
+💻 I'm currently working as Sr.IIoT Developer @ausweg info controls<br>❤️ I love writing code with Python , MySQL , HTML , CSS , JS<br>🤝 I'm looking for help with advanced technologies (AI,ML)<br>🌱 I'm currently learning AI,ML<br>💬 Ask me about web technologies , python , mysql , MQTT , Gateways here
 
 
 ## 🌐 Socials:
